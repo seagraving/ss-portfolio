@@ -16,3 +16,4 @@ This is a web developer homepage which includes a portfolio for Sarah Seagraves,
 * HTML
 * CSS
 
+Link for deployed page: https://seagraving.github.io/ss-portfolio/
